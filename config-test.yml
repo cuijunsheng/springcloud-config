@@ -1,2 +1,2 @@
 config:
- info: this is springcloud test config...
+ info: this is springcloud test config...,  version=1
