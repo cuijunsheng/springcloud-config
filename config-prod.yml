@@ -1,2 +1,2 @@
 config:
- info: this is springcloud prod config...
+ info: this is springcloud prod config...,  version=1
